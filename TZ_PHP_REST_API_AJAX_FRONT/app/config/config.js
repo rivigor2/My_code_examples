@@ -1,0 +1,1 @@
+var REST_API_URL = 'http://test.loc/api/';
